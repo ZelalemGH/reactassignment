@@ -10,9 +10,9 @@ const HelloDiv = () => {
     <div>
       <h1>Hello! My name is {name}</h1>
       <ul>
-        <ol>This is react crash course</ol>
-        <ol>MERN stands for MongoDB, Express, React, Node </ol>
-        <ol>REACT is a javaScript library</ol>
+        <li>This is REACT crash course</li>
+        <li>MERN stands for MongoDB, Express, React, Node </li>
+        <li>REACT is a javaScript library</li>
       </ul>
     </div>
   );
